@@ -3,18 +3,18 @@ const chalk = require('chalk');
 require('dotenv').config();
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
+global.ownernumber = [ process.env.OWNER_NUMBER || "917989635699"],
+global.ownername = process.env.OWNER_NAME || "CHK311",
+global.ytname = "YT: Varaprasad Chakri"
+global.socialm = "GitHub: Surya2546"
 global.location = "Indian"
 
-global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
+global.botname = process.env.BOTNAME || "CHK-311",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
-global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.stickername = process.env.STICKER || "CHK311",
+global.packname = 'Sticker By: CHK'
+global.author = process.env.AUTHOR || "CHK",
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
@@ -39,15 +39,15 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '🍭 *Here you go, darling!* ',
-    prem: '🍭 *My darling, this feature is reserved for premium users only*',
-    admin: '🍭 *My darling, this feature is reserved for admins only*',
-    botAdmin: '🍭 *Darling, this feature can only be used when the bot is a group admin* ',
-    owner: '🍭 *My dearest, this feature is reserved for the owner only*',
-    group: '🍭 *Sweetheart, this feature is exclusively for groups*',
-    private: '🍭 *My love, this feature is exclusively for private chats*',
-    wait: '🍭 *Darling, in process...* ',    
-    error: '🍭 *Oh darling, there seems to be an error!*',
+    done: '🍭 *Here you go lord!* ',
+    prem: '🍭 *My lord, this feature is reserved for premium users only*',
+    admin: '🍭 *My lord, this feature is reserved for admins only*',
+    botAdmin: '🍭 *lord, this feature can only be used when the bot is a group admin* ',
+    owner: '🍭 *My dearest lord, this feature is reserved for the owner only*',
+    group: '🍭 *lord, this feature is exclusively for groups*',
+    private: '🍭 *My lord, this feature is exclusively for private chats*',
+    wait: '🍭 *lord, in process...* ',    
+    error: '🍭 *Oh lord, there seems to be an error!*',
 }
 
 module.exports = {
